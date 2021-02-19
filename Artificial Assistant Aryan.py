@@ -135,7 +135,9 @@ if __name__ == "__main__":
             res_g = 'sorry! i cant understand but i search from internet to give your answer ! okay'
             print(res_g)
             speak(res_g)
-            webbrowser.open(g_url+temp)                                
+            webbrowser.open(g_url+temp)
+            
+        
 
 
 
